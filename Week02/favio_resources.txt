@@ -1,0 +1,15 @@
+Hi all! I'm attaching here the notebook we saw for the last OH, and also here are some books for learning more about Python:
+
+ 
+
+Python crash course: https://libgen.is/book/index.php?md5=922B856D66574746B69EC69E67C20A17Links to an external site.. This book also has a lot of exercises and resources you can find here: https://github.com/ehmatthes/pcc_2e/Links to an external site.
+
+ 
+
+Python Head First: https://github.com/AatmikJain/ComputerScienceBooks/blob/master/Python%20Head%20First%2C%202nd%20Edition.pdfLinks to an external site.
+
+ 
+
+See you all next week! 
+
+ 
