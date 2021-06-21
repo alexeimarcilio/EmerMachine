@@ -1,0 +1,4 @@
+https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html
+https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html
+https://realpython.com/python-traceback/
+https://docs.python.org/2.0/tut/node4.html
