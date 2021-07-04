@@ -1,0 +1,6 @@
+https://www.w3schools.com/python/python_scope.asp
+
+https://stackoverflow.com/questions/4592162/python-exception-handling
+
+https://stackoverflow.com/questions/16501/what-is-a-lambda-function
+
