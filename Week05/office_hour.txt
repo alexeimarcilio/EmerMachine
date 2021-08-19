@@ -1,2 +1,0 @@
-https://realpython.com/inner-functions-what-are-they-good-for/
-https://docs.python.org/3/reference/compound_stmts.html
