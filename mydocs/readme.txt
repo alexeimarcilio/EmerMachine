@@ -56,3 +56,7 @@ conda create -n emeritusm python=3.9 anaconda
 Usefull Commands
 
 conda env list
+
+In order to allow access to Github by token I had to update the Git password to the 
+token I created by accessing "Keychain Access" on the Mac
+
